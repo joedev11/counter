@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 15%;
+
+}
+
+.title {
+    font-size: 100px;
+    margin-bottom: 40px;
+}
+
+#value {
+    font-size: 100px;
+}
+
+.btn {
+    letter-spacing: 2px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin: 50px 10px 10px 10px;
+    font-size: 20px;
+}
