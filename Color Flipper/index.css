@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    padding: 250px 0px 250px 0px;
+    display: block; 
+    background-color: black;
+    height: 100%;
+    
+}
+
+.title {
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    letter-spacing: 3px;
+    display: inline-block;
+}
+
+.btn {
+    letter-spacing: 1.5px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+}
